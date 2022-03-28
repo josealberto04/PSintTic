@@ -1,6 +1,6 @@
 Algoritmo ejercicio_2
 	//Calcular el perímetro y área de un rectángulo dada su base y su altura.
-	Definir base, altura, perimetro, area Como Entero
+	Definir base, altura, perimetro, area Como Real
 	perimetro=0
 	area=0
 	Escribir "Dime la base de su rectángulo"
