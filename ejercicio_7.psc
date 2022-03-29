@@ -6,7 +6,7 @@ Algoritmo ejercicio_7
 	Leer min
 	//horas=min/60
 	
-	Escribir min, " minutos son ", min/60 " horas y ", min%60 " minutos"
+	Escribir min, " minutos son ",trunc( min/60) " horas y ", min%60 " minutos"
 	
 	
 	
